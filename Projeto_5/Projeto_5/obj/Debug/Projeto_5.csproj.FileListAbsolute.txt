@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\Projeto_5\Projeto_5\bin\Debug\Projeto_5.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Projeto_5\Projeto_5\bin\Debug\Projeto_5.exe
+c:\users\user\documents\visual studio 2013\Projects\Projeto_5\Projeto_5\bin\Debug\Projeto_5.pdb
+c:\users\user\documents\visual studio 2013\Projects\Projeto_5\Projeto_5\obj\Debug\Projeto_5.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Projeto_5\Projeto_5\obj\Debug\Projeto_5.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Projeto_5\Projeto_5\obj\Debug\Projeto_5.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Projeto_5\Projeto_5\obj\Debug\Projeto_5.exe
+c:\users\user\documents\visual studio 2013\Projects\Projeto_5\Projeto_5\obj\Debug\Projeto_5.pdb
